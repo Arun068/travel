@@ -1,0 +1,34 @@
+#box{
+   background-color: #5143D9;
+
+}
+
+#text{
+    font-size: 60px;
+    font-weight: 800;
+}
+#intro-form{
+    margin-top: -110px;
+}
+#inside{
+    top: -16px;
+    left: 8px;
+}
+#search{
+    width: 37px;
+    top: 20px;
+    right: -15px;
+}
+#box1{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+#img4{
+    width: 450px;
+}
+#review{
+    background-color: #F5F5F6;
+}
+.box2{
+    width: 420px;
+}
